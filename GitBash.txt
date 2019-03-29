@@ -1,0 +1,6 @@
+ls -a => show hiden file (.hiden);
+ls -lah => show hiden + size kb.;
+ls -ls => show file in Byte;
+"VIM exit => ctrl+c / :wq;" 
+VIM exit = / :wq; 
+view file = fileName, less, head, tail, tac; 
